@@ -9,7 +9,7 @@ The Dockerized version of the Hello World integration of the [Skylight SDK imple
 1. Complete steps 0 to 4 of the [Skylight Hello World Getting started guide](https://docs.upskill.io/development/getting-started)
 
 ## Instructions:
-1. Check out the repository or download the zip file from the Github
+1. Check out the repository or download the zip file from the [Github](https://github.com/patvin80/AmoghQuickStartService)
 1. Rename the sample.env.dev file in the root folder as .env.dev
 1. Replace the placeholders for USERNAME, PASSWORD and DOMAIN with credentials obtained.
 1. Navigate to the folder containing the docker-compose file.
