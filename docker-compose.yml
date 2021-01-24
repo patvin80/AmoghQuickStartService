@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  quickstartservice:
+    image: ${DOCKER_REGISTRY-}quickstartservice
+    build:
+      context: .
+      dockerfile: QuickStartService/Dockerfile
+    env_file: .env.dev
